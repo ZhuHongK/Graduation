@@ -31,13 +31,13 @@ class MLP(nn.Module):
         )
 
         input_dim = state_dim + action_dim + t_dim
-        # self.mid_layer = nn.Sequential(nn.Linear(input_dim, 256),
-        #                                nn.Mish(),
-        #                                nn.Linear(256, 256),
-        #                                nn.Mish(),
-        #                                nn.Linear(256, 256),
-        #                                nn.Mish())
-        self.mid_layer = DiTBlock()
+        self.mid_layer = nn.Sequential(nn.Linear(input_dim, 256),
+                                       nn.Mish(),
+                                       nn.Linear(256, 256),
+                                       nn.Mish(),
+                                       nn.Linear(256, 256),
+                                       nn.Mish())
+        # self.mid_layer = DiTBlock()
 
 
         self.final_layer = nn.Linear(256, action_dim)
