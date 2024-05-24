@@ -1,0 +1,440 @@
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  50
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss          0.0485629
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss         -1.00003
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss      -0.95147
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss     22.1271
+24-05-23.21:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-23.21:41|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-23.21:41|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5081.66
+24-05-23.21:41|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.1066
+24-05-23.21:41|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  100
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.033928
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999991
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.966063
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      31.8218
+24-05-23.22:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-23.22:04|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-23.22:04|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5025.67
+24-05-23.22:04|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.0944
+24-05-23.22:04|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  150
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0315553
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -1
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.968447
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      32.7919
+24-05-23.22:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.22:27|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.22:27|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5056.13
+24-05-23.22:27|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10104
+24-05-23.22:27|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  200
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0304431
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999981
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.969538
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      31.0026
+24-05-23.22:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.22:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.22:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5094.59
+24-05-23.22:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10942
+24-05-23.22:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  250
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0297905
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999979
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.970188
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      28.6847
+24-05-23.23:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.23:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.23:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5045.43
+24-05-23.23:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09871
+24-05-23.23:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  300
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0293426
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999975
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.970633
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      26.8723
+24-05-23.23:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.23:35|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.23:35|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5106.8
+24-05-23.23:35|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.11208
+24-05-23.23:35|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  350
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0290154
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999959
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.970943
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      25.2584
+24-05-23.23:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-23.23:58|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-23.23:58|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    4999.11
+24-05-23.23:58|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.08862
+24-05-23.23:58|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  400
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0287131
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999958
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.971245
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      23.5847
+24-05-24.00:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.00:21|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.00:21|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5055.36
+24-05-24.00:21|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10087
+24-05-24.00:21|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  450
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.028511
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999943
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.971432
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      23.0577
+24-05-24.00:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-24.00:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.00:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5046.99
+24-05-24.00:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09905
+24-05-24.00:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  500
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0283431
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999955
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.971612
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      21.8361
+24-05-24.01:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.01:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.01:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5033.94
+24-05-24.01:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.0962
+24-05-24.01:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  550
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0281369
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999926
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.971789
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      20.5601
+24-05-24.01:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.01:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.01:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5058.01
+24-05-24.01:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10145
+24-05-24.01:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  600
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0279998
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999908
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.971908
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      19.7848
+24-05-24.01:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.01:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.01:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5031.52
+24-05-24.01:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09568
+24-05-24.01:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  650
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0278809
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999906
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.972025
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      19.1828
+24-05-24.02:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.02:15|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.02:15|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5050.36
+24-05-24.02:15|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09978
+24-05-24.02:15|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  700
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0277771
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999905
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.972128
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      18.7339
+24-05-24.02:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.02:38|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.02:38|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5050.23
+24-05-24.02:38|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09975
+24-05-24.02:38|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  750
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0276893
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999914
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.972225
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      18.1956
+24-05-24.02:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.03:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.03:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5029.97
+24-05-24.03:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09534
+24-05-24.03:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  800
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.027568
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999928
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.97236
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      17.8202
+24-05-24.03:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-24.03:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.03:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5053.24
+24-05-24.03:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10041
+24-05-24.03:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  850
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0275205
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999889
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.972368
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      17.7261
+24-05-24.03:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.03:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.03:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5049.14
+24-05-24.03:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09952
+24-05-24.03:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  900
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0274362
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.999904
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.972468
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      17.3143
+24-05-24.04:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.04:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.04:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5000.68
+24-05-24.04:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.08896
+24-05-24.04:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  950
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0273798
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.9999
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.97252
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      16.9765
+24-05-24.04:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.04:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.04:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5061.6
+24-05-24.04:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10223
+24-05-24.04:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1000
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0273119
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999882
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.97257
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       16.73
+24-05-24.04:54|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.04:55|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.04:55|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5019.13
+24-05-24.04:55|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09298
+24-05-24.04:55|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1050
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.027264
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999895
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972631
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       16.5876
+24-05-24.05:16|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.05:17|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.05:17|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5056.39
+24-05-24.05:17|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10109
+24-05-24.05:17|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1100
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0271758
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999881
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972705
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       16.2818
+24-05-24.05:39|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.05:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.05:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5044.23
+24-05-24.05:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09845
+24-05-24.05:40|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1150
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0271723
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999899
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972727
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       16.0624
+24-05-24.06:02|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.06:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.06:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5042.12
+24-05-24.06:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09799
+24-05-24.06:03|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1200
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0271099
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999883
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972773
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.9747
+24-05-24.06:25|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.06:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.06:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5071.29
+24-05-24.06:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10434
+24-05-24.06:26|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1250
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0270741
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999865
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.97279
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.9168
+24-05-24.06:48|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.06:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.06:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5052.59
+24-05-24.06:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10027
+24-05-24.06:49|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1300
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0270753
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999874
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972799
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.6999
+24-05-24.07:11|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.07:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.07:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5052.28
+24-05-24.07:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.1002
+24-05-24.07:12|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1350
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0270228
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999895
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972872
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.5275
+24-05-24.07:33|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.07:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.07:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5062.43
+24-05-24.07:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10241
+24-05-24.07:34|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1400
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0270241
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999875
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972851
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.4529
+24-05-24.07:56|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.07:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.07:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5078.04
+24-05-24.07:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10581
+24-05-24.07:57|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1450
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0269454
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999854
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972908
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.2803
+24-05-24.08:19|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.08:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.08:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5032.09
+24-05-24.08:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.0958
+24-05-24.08:20|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1500
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0269415
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999868
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972927
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.1585
+24-05-24.08:42|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.08:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.08:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5033.92
+24-05-24.08:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.0962
+24-05-24.08:43|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---------
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1550
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0268953
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999876
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.972981
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       15.0337
+24-05-24.09:05|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.09:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.09:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5052.64
+24-05-24.09:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10028
+24-05-24.09:06|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1600
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0268703
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99987
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.9621
+24-05-24.09:28|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.09:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.09:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5028.33
+24-05-24.09:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09498
+24-05-24.09:29|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1650
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0268566
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999865
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973008
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.8148
+24-05-24.09:51|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.09:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.09:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5055.44
+24-05-24.09:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10089
+24-05-24.09:52|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1700
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0268198
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999855
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973036
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.8234
+24-05-24.10:13|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.10:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.10:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5038.58
+24-05-24.10:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09722
+24-05-24.10:14|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1750
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0268073
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999857
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.97305
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.6776
+24-05-24.10:36|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.10:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.10:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5072.41
+24-05-24.10:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10458
+24-05-24.10:37|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1800
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0267803
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999867
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973086
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.5125
+24-05-24.10:59|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.11:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.11:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5043.79
+24-05-24.11:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09835
+24-05-24.11:00|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1850
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0267482
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999856
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973107
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.476
+24-05-24.11:22|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.11:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.11:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5073.89
+24-05-24.11:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10491
+24-05-24.11:23|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1900
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.026721
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999849
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973128
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.4615
+24-05-24.11:45|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.11:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.11:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5079.4
+24-05-24.11:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10611
+24-05-24.11:46|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1950
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.026712
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999867
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973155
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.3673
+24-05-24.12:08|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-24.12:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.12:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5071.25
+24-05-24.12:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.10433
+24-05-24.12:09|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  2000
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0267133
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.999854
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.973141
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       14.3274
+24-05-24.12:31|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-24.12:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-24.12:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5039.56
+24-05-24.12:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     1.09743
+24-05-24.12:32|[walker2d-medium-expert-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
