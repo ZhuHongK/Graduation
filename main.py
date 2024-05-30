@@ -23,7 +23,7 @@ hyperparameters = {
     'walker2d-medium-replay-v2':     {'lr': 3e-4, 'eta': 1.0,   'max_q_backup': False,  'reward_tune': 'no',          'eval_freq': 50, 'num_epochs': 2000, 'gn': 4.0,  'top_k': 1},
     'halfcheetah-medium-expert-v2':  {'lr': 3e-4, 'eta': 1.0,   'max_q_backup': False,  'reward_tune': 'no',          'eval_freq': 50, 'num_epochs': 2000, 'gn': 7.0,  'top_k': 0},
     'hopper-medium-expert-v2':       {'lr': 3e-4, 'eta': 1.0,   'max_q_backup': False,  'reward_tune': 'no',          'eval_freq': 50, 'num_epochs': 2000, 'gn': 5.0,  'top_k': 2},
-    'walker2d-medium-expert-v2':     {'lr': 3e-4, 'eta': 1.0,   'max_q_backup': False,  'reward_tune': 'no',          'eval_freq': 50, 'num_epochs': 2000, 'gn': 5.0,  'top_k': 1},
+    'walker2d-medium-expert-v2':     {'lr': 3e-4, 'eta': 1.0,   'max_q_backup': False,  'reward_tune': 'no',          'eval_freq': 50, 'num_epochs': 300, 'gn': 5.0,  'top_k': 1},
     'antmaze-umaze-v0':              {'lr': 3e-4, 'eta': 0.5,   'max_q_backup': False,  'reward_tune': 'cql_antmaze', 'eval_freq': 50, 'num_epochs': 1000, 'gn': 2.0,  'top_k': 2},
     'antmaze-umaze-diverse-v0':      {'lr': 3e-4, 'eta': 2.0,   'max_q_backup': True,   'reward_tune': 'cql_antmaze', 'eval_freq': 50, 'num_epochs': 1000, 'gn': 3.0,  'top_k': 2},
     'antmaze-medium-play-v0':        {'lr': 1e-3, 'eta': 2.0,   'max_q_backup': True,   'reward_tune': 'cql_antmaze', 'eval_freq': 50, 'num_epochs': 1000, 'gn': 2.0,  'top_k': 1},
@@ -131,15 +131,28 @@ def train_agent(env, state_dim, action_dim, max_action, device, output_dir, args
         with open(os.path.join(output_dir, f"best_score_{args.ms}.txt"), 'w') as f:
             f.write(json.dumps(best_res))
     elif args.ms == 'offline':
-        bc_loss = scores[:, 4]
-        top_k = min(len(bc_loss) - 1, args.top_k)
-        where_k = np.argsort(bc_loss) == top_k
-        best_res = {'model selection': args.ms, 'epoch': scores[where_k][0][-1],
-                    'best normalized score avg': scores[where_k][0][2],
-                    'best normalized score std': scores[where_k][0][3],
-                    'best raw score avg': scores[where_k][0][0],
-                    'best raw score std': scores[where_k][0][1]}
+        # bc_loss = scores[:, 4]
+        # eval_norm_res = scores[:, 2]
+        # # top_k = min(len(bc_loss) - 1, args.top_k)
+        # #top_k = min(len(eval_norm_res) - 1, args.top_k)
+        # # where_k = np.argsort(bc_loss) == top_k
+        # where_k = np.argsort(eval_norm_res) == -1
+        # best_res = {'model selection': args.ms, 'epoch': scores[where_k][0][-1],
+        #             'best normalized score avg': scores[where_k][0][2],
+        #             'best normalized score std': scores[where_k][0][3],
+        #             'best raw score avg': scores[where_k][0][0],
+        #             'best raw score std': scores[where_k][0][1]}
+        
 
+        # with open(os.path.join(output_dir, f"best_score_{args.ms}.txt"), 'w') as f:
+        #     f.write(json.dumps(best_res))
+
+        best_id = np.argmax(scores[:, 2])
+        best_res = {'model selection': args.ms, 'epoch': scores[best_id, -1],
+                    'best normalized score avg': scores[best_id, 2],
+                    'best normalized score std': scores[best_id, 3],
+                    'best raw score avg': scores[best_id, 0],
+                    'best raw score std': scores[best_id, 1]}
         with open(os.path.join(output_dir, f"best_score_{args.ms}.txt"), 'w') as f:
             f.write(json.dumps(best_res))
 
@@ -149,7 +162,7 @@ def train_agent(env, state_dim, action_dim, max_action, device, output_dir, args
 # Runs policy for X episodes and returns average reward
 # A fixed seed is used for the eval environment
 def eval_policy(policy, env_name, seed, eval_episodes=10):
-    eval_env = gym.make(env_name)
+    eval_env = gym.make(env_name, render_mode = "human")
     eval_env.seed(seed + 100)
 
     scores = []
@@ -160,9 +173,10 @@ def eval_policy(policy, env_name, seed, eval_episodes=10):
             action = policy.sample_action(np.array(state))
             
             state, reward, done, _ = eval_env.step(action)
-            render()
+            #eval_env.render()
             traj_return += reward
         scores.append(traj_return)
+    #eval_env.close()
 
     avg_reward = np.mean(scores)
     std_reward = np.std(scores)
