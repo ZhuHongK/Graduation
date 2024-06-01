@@ -1,0 +1,440 @@
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  50
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss          0.0421545
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss         -0.999063
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss      -0.956909
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss     34.2097
+24-05-31.12:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-31.12:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.12:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5379.91
+24-05-31.12:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.455901
+24-05-31.12:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  100
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0274069
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998442
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.971035
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      42.0559
+24-05-31.12:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.12:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.12:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5620.26
+24-05-31.12:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.47526
+24-05-31.12:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  150
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.026175
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998659
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.972484
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      40.2876
+24-05-31.12:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-31.12:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.12:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5636.67
+24-05-31.12:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.476581
+24-05-31.12:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  200
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0255139
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998756
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.973242
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      37.3351
+24-05-31.13:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.13:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.13:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5700.09
+24-05-31.13:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.48169
+24-05-31.13:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  250
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0251281
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.99865
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.973522
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      35.3817
+24-05-31.13:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.13:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.13:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5782.21
+24-05-31.13:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.488305
+24-05-31.13:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  300
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0248591
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998495
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.973635
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      33.3625
+24-05-31.14:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.14:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.14:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5818.59
+24-05-31.14:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.491235
+24-05-31.14:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  350
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0246668
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998538
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.973871
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      31.8815
+24-05-31.14:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.14:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.14:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5789.41
+24-05-31.14:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.488884
+24-05-31.14:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  400
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0244515
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998508
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974057
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      30.4044
+24-05-31.14:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.14:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.14:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5689.34
+24-05-31.14:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.480825
+24-05-31.14:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  450
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.024313
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998481
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974168
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      29.1848
+24-05-31.15:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-05-31.15:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.15:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5817.82
+24-05-31.15:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.491173
+24-05-31.15:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  500
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0241973
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.99853
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974333
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      28.6086
+24-05-31.15:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.15:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.15:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5823.96
+24-05-31.15:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.491667
+24-05-31.15:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  550
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0240824
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998599
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974516
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      27.6592
+24-05-31.16:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.16:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.16:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5840.2
+24-05-31.16:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.492976
+24-05-31.16:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  600
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0239805
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998491
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.97451
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      27.3097
+24-05-31.16:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.16:26|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.16:26|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5890.02
+24-05-31.16:26|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.496988
+24-05-31.16:26|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  650
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0239072
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998554
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974647
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      26.7979
+24-05-31.16:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.16:49|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.16:49|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5841.27
+24-05-31.16:49|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.493062
+24-05-31.16:49|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  700
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0238429
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.99861
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974768
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      26.3141
+24-05-31.17:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.17:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.17:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5830.3
+24-05-31.17:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.492178
+24-05-31.17:12|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  750
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0237849
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998626
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974841
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      25.9449
+24-05-31.17:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.17:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.17:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5883.89
+24-05-31.17:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.496494
+24-05-31.17:35|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  800
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0237168
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998549
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974832
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      25.5228
+24-05-31.17:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.17:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.17:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5924.42
+24-05-31.17:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.499759
+24-05-31.17:58|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  850
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0236832
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998568
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.974885
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      25.3131
+24-05-31.18:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.18:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.18:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5964.62
+24-05-31.18:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.502997
+24-05-31.18:21|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  900
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0236129
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998603
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.97499
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      25.055
+24-05-31.18:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.18:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.18:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5942.82
+24-05-31.18:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.501241
+24-05-31.18:44|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  950
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0235639
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          -0.998588
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       -0.975024
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      24.7561
+24-05-31.19:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.19:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.19:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5851.85
+24-05-31.19:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.493914
+24-05-31.19:07|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1000
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0235474
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99862
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975072
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       24.5648
+24-05-31.19:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.19:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.19:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5903.96
+24-05-31.19:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.498111
+24-05-31.19:30|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1050
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0235037
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998638
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975134
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       24.4339
+24-05-31.19:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.19:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.19:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6000.57
+24-05-31.19:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.505893
+24-05-31.19:53|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1100
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0234412
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99864
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975199
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       24.0272
+24-05-31.20:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.20:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.20:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5982.11
+24-05-31.20:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.504405
+24-05-31.20:16|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1150
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0234374
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99862
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975183
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       23.8416
+24-05-31.20:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.20:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.20:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5886.74
+24-05-31.20:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.496724
+24-05-31.20:39|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1200
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0233825
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998653
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975271
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       23.5387
+24-05-31.21:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.21:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.21:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5901.48
+24-05-31.21:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.497911
+24-05-31.21:02|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1250
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0233327
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998625
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975293
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       23.5314
+24-05-31.21:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.21:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.21:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5950.26
+24-05-31.21:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.50184
+24-05-31.21:25|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1300
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0233336
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998662
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975328
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       23.0752
+24-05-31.21:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.21:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.21:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5962.6
+24-05-31.21:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.502835
+24-05-31.21:48|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1350
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0233196
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99863
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975311
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       23.1063
+24-05-31.22:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.22:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.22:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5922.83
+24-05-31.22:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.499631
+24-05-31.22:11|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1400
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0233132
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99868
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975367
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.9227
+24-05-31.22:33|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.22:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.22:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5965.53
+24-05-31.22:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.50307
+24-05-31.22:34|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----------
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1450
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0232714
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998687
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975416
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.7522
+24-05-31.22:56|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.22:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.22:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5954.99
+24-05-31.22:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.502221
+24-05-31.22:57|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1500
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0232551
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998676
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.97542
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.6132
+24-05-31.23:19|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-05-31.23:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.23:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6028.48
+24-05-31.23:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.508141
+24-05-31.23:20|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1550
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.023224
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998609
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975385
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.5384
+24-05-31.23:42|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-05-31.23:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-05-31.23:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5918.83
+24-05-31.23:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.499309
+24-05-31.23:43|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1600
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0232019
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998615
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975413
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.5919
+24-06-01.00:05|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.00:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.00:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5949.98
+24-06-01.00:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.501818
+24-06-01.00:06|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1650
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.023206
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998628
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975422
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.3412
+24-06-01.00:28|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-01.00:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.00:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6011.4
+24-06-01.00:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.506765
+24-06-01.00:29|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1700
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0231727
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998601
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975429
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.3314
+24-06-01.00:51|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.00:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.00:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6003.51
+24-06-01.00:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.506129
+24-06-01.00:52|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1750
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0231598
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998584
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975424
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.2849
+24-06-01.01:14|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.01:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.01:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5951.93
+24-06-01.01:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.501975
+24-06-01.01:15|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1800
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0231361
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.99864
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975504
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.1001
+24-06-01.01:37|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.01:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.01:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5978.4
+24-06-01.01:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.504107
+24-06-01.01:38|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1850
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0231453
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998671
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975526
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.2834
+24-06-01.02:00|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.02:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.02:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    5985.58
+24-06-01.02:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.504685
+24-06-01.02:01|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1900
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0231032
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998647
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975543
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.199
+24-06-01.02:23|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.02:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.02:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6004.64
+24-06-01.02:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.506221
+24-06-01.02:24|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1950
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0230871
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998692
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975605
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       22.0036
+24-06-01.02:46|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.02:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.02:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6064.61
+24-06-01.02:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.511051
+24-06-01.02:47|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  2000
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0231182
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           -0.998735
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        -0.975617
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       21.8617
+24-06-01.03:09|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-01.03:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
+24-06-01.03:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    6003.19
+24-06-01.03:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward     0.506104
+24-06-01.03:10|[halfcheetah-medium-v2|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -----------
