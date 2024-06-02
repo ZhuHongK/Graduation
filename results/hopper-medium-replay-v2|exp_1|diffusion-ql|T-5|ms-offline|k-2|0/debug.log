@@ -1,0 +1,440 @@
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ---------
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  50
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss          0.11449
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss         -0.999579
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss      -0.885089
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss     45.1326
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ---------
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    888.389
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward    0.279195
+24-06-01.20:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  100
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0952507
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999843
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.904593
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      55.6016
+24-06-01.20:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.20:41|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.20:41|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    2163.99
+24-06-01.20:41|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.671137
+24-06-01.20:41|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  150
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0897398
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.99982
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.91008
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      46.909
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    2489.48
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.771145
+24-06-01.21:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  200
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0866061
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999815
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.913208
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      42.0385
+24-06-01.21:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.21:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.21:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3281
+24-06-01.21:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01435
+24-06-01.21:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  250
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0845586
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999809
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.91525
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      38.9465
+24-06-01.21:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.21:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.21:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3186.4
+24-06-01.21:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.985282
+24-06-01.21:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  300
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0832037
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.9998
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.916596
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      37.4724
+24-06-01.22:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.22:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.22:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3240.93
+24-06-01.22:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00204
+24-06-01.22:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  350
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0820615
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999839
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.917778
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      36.2568
+24-06-01.22:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.22:35|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ---------
+24-06-01.22:35|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3254.81
+24-06-01.22:35|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.0063
+24-06-01.22:35|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ---------
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  400
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0811158
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999816
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.9187
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      34.8629
+24-06-01.22:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.22:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.22:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3230.18
+24-06-01.22:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.998734
+24-06-01.22:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  450
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0802882
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999804
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.919516
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      33.6493
+24-06-01.23:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.23:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.23:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3256.64
+24-06-01.23:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00686
+24-06-01.23:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  500
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0796755
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999845
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.920169
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      32.9442
+24-06-01.23:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-01.23:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-01.23:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3216.95
+24-06-01.23:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.994669
+24-06-01.23:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  550
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0791603
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999849
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.920689
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      32.5407
+24-06-02.00:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.00:06|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.00:06|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3268.68
+24-06-02.00:06|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01056
+24-06-02.00:06|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  600
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0785282
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999859
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.92133
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      31.5288
+24-06-02.00:28|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.00:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ---------
+24-06-02.00:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3274.97
+24-06-02.00:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.0125
+24-06-02.00:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ---------
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  650
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0780568
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999838
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.921781
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      30.7438
+24-06-02.00:50|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.00:51|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.00:51|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3244.02
+24-06-02.00:51|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00299
+24-06-02.00:51|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  700
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0776662
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999833
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.922166
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      30.6347
+24-06-02.01:13|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.01:14|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.01:14|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3249.64
+24-06-02.01:14|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00471
+24-06-02.01:14|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  750
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0772601
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999841
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.922581
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      29.7731
+24-06-02.01:36|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.01:37|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.01:37|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3265.31
+24-06-02.01:37|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00953
+24-06-02.01:37|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  800
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0769962
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999847
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.922851
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      29.3877
+24-06-02.01:58|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.01:59|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.01:59|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3262.7
+24-06-02.01:59|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00873
+24-06-02.01:59|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  850
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0765797
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.99983
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.92325
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      28.6556
+24-06-02.02:21|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.02:22|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.02:22|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3255.52
+24-06-02.02:22|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00652
+24-06-02.02:22|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  900
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0764073
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999843
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.923435
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      27.9929
+24-06-02.02:44|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.02:45|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.02:45|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3252.04
+24-06-02.02:45|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00545
+24-06-02.02:45|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  950
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0760287
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999845
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.923816
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss      27.9934
+24-06-02.03:07|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.03:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.03:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3221.42
+24-06-02.03:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.996042
+24-06-02.03:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1000
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0756457
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999861
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.924215
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       27.5272
+24-06-02.03:29|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.03:30|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.03:30|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3256.3
+24-06-02.03:30|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00676
+24-06-02.03:30|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1050
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0754198
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999834
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.924414
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       27.2781
+24-06-02.03:52|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.03:53|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.03:53|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3260.48
+24-06-02.03:53|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00804
+24-06-02.03:53|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1100
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0753017
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999862
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.92456
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       27.0044
+24-06-02.04:15|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.04:16|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.04:16|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3233.7
+24-06-02.04:16|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.999817
+24-06-02.04:16|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1150
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0750717
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999856
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.924784
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       26.343
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3279.99
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01404
+24-06-02.04:38|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1200
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0748449
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999846
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925002
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       26.1211
+24-06-02.05:00|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.05:01|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.05:01|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3287.37
+24-06-02.05:01|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01631
+24-06-02.05:01|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1250
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0746674
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999844
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925176
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       25.891
+24-06-02.05:23|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.05:24|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.05:24|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3236.38
+24-06-02.05:24|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00064
+24-06-02.05:24|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1300
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0745744
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999838
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925263
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       25.8852
+24-06-02.05:46|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.05:47|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.05:47|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3286.07
+24-06-02.05:47|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01591
+24-06-02.05:47|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1350
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0743586
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999846
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925488
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       25.6956
+24-06-02.06:08|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.06:09|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.06:09|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3271.28
+24-06-02.06:09|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01136
+24-06-02.06:09|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1400
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0743627
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999841
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925479
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       25.3027
+24-06-02.06:31|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.06:32|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.06:32|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3260.75
+24-06-02.06:32|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00813
+24-06-02.06:32|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1450
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0740137
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999845
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925832
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       25.1712
+24-06-02.06:54|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.06:55|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.06:55|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3248.06
+24-06-02.06:55|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00423
+24-06-02.06:55|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1500
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.073924
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999859
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.925935
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       24.8205
+24-06-02.07:17|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.07:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.07:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3269.65
+24-06-02.07:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01086
+24-06-02.07:18|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1550
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0737725
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999849
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926076
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       24.6621
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3254.08
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00608
+24-06-02.07:40|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1600
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0736186
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999867
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926248
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       24.6674
+24-06-02.08:02|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.08:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.08:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3045.67
+24-06-02.08:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.942041
+24-06-02.08:03|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1650
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0734876
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999851
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926363
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       24.4536
+24-06-02.08:25|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.08:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.08:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3037.87
+24-06-02.08:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.939646
+24-06-02.08:26|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1700
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0734219
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999856
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926434
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       24.3157
+24-06-02.08:48|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.08:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.08:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3267.69
+24-06-02.08:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01026
+24-06-02.08:49|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1750
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.073322
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999855
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926533
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       24.0544
+24-06-02.09:11|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -----------
+24-06-02.09:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.09:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3284.6
+24-06-02.09:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01545
+24-06-02.09:12|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1800
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0731835
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999846
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926663
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       23.9539
+24-06-02.09:33|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.09:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.09:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3273.42
+24-06-02.09:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01202
+24-06-02.09:34|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1850
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0730674
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999851
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926783
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       23.8794
+24-06-02.09:56|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.09:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.09:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3256.46
+24-06-02.09:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00681
+24-06-02.09:57|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1900
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0729703
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999857
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926887
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       23.9321
+24-06-02.10:19|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.10:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.10:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3256.4
+24-06-02.10:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.00679
+24-06-02.10:20|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1950
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0729956
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999853
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.926858
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       23.7931
+24-06-02.10:42|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.10:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.10:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3270.52
+24-06-02.10:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     1.01113
+24-06-02.10:43|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  2000
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.0727574
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -0.999852
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.927095
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       23.575
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    3094.01
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.956894
+24-06-02.11:05|[hopper-medium-replay-v2|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
