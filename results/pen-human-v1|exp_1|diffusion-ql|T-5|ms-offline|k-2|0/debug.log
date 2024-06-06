@@ -1,0 +1,227 @@
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ----------
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  50
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss          0.0388507
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss         -0.962839
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss      -0.105575
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss     19.9282
+24-06-06.12:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ----------
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ----------
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  50
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss          0.0388507
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss         -0.962839
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss      -0.105575
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss     19.9282
+24-06-06.13:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ----------
+24-06-06.13:08|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.13:08|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1428.96
+24-06-06.13:08|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.44713
+24-06-06.13:08|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs   100
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.00839217
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -1.00002
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.14161
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss     1078.99
+24-06-06.13:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.13:30|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.13:30|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    2355.58
+24-06-06.13:30|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.758015
+24-06-06.13:30|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs    150
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss             0.0065261
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss            -0.999974
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss         -0.14347
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss     36536.5
+24-06-06.13:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.13:53|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.13:53|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1941.08
+24-06-06.13:53|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.618948
+24-06-06.13:53|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ---------------
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs     200
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss              0.00554781
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss             -0.999999
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss          -0.144452
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss     356546
+24-06-06.14:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ---------------
+24-06-06.14:15|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.14:15|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1523.43
+24-06-06.14:15|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.478823
+24-06-06.14:15|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  250
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00512381
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.144876
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       5.07309e+06
+24-06-06.14:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.14:38|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.14:38|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1510.58
+24-06-06.14:38|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.474512
+24-06-06.14:38|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  300
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00488419
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999996
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.145115
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       3.02483e+08
+24-06-06.14:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.15:00|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.15:00|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1380.03
+24-06-06.15:00|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.430713
+24-06-06.15:00|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  350
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00455967
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999994
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.145439
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       1.83337e+10
+24-06-06.15:21|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.15:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.15:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1742.4
+24-06-06.15:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.55229
+24-06-06.15:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  400
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00421172
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999999
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.145788
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       6.0609e+11
+24-06-06.15:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  ------------
+24-06-06.15:45|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.15:45|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1666.14
+24-06-06.15:45|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.526703
+24-06-06.15:45|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  450
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00398032
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999998
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146019
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       2.09051e+13
+24-06-06.16:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.16:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.16:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1741.29
+24-06-06.16:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.551919
+24-06-06.16:07|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  500
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00387085
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999997
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146129
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       1.36212e+15
+24-06-06.16:28|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.16:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.16:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1788.77
+24-06-06.16:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.567847
+24-06-06.16:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  550
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00357412
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999998
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146426
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       3.27463e+16
+24-06-06.16:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.16:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.16:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1749.46
+24-06-06.16:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.55466
+24-06-06.16:52|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  600
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00337341
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999999
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146626
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       4.74153e+17
+24-06-06.17:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.17:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.17:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1718.69
+24-06-06.17:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.544334
+24-06-06.17:14|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  650
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00320702
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146793
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       7.52827e+18
+24-06-06.17:36|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.17:37|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.17:37|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1501.06
+24-06-06.17:37|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.47132
+24-06-06.17:37|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  ----------
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  700
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.0031237
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -0.999998
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146876
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       2.94854e+19
+24-06-06.17:58|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.17:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.17:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1616.9
+24-06-06.17:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.510184
+24-06-06.17:59|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  750
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.003033
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1.00001
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.146968
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       2.95518e+19
+24-06-06.18:20|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.18:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.18:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1517.57
+24-06-06.18:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.476858
+24-06-06.18:22|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  800
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00294737
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.147053
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       2.97624e+19
+24-06-06.18:43|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.18:44|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.18:44|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1682.01
+24-06-06.18:44|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.532028
+24-06-06.18:44|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  850
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00287059
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.147129
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       2.98159e+19
+24-06-06.19:05|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.19:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.19:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1575.66
+24-06-06.19:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.496346
+24-06-06.19:06|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  900
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00280215
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1.00001
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.147199
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       3.00504e+19
+24-06-06.19:27|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.19:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.19:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1648.09
+24-06-06.19:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.520649
+24-06-06.19:29|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  950
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss           0.00274117
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss          -1
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss       -0.147259
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss       3.03858e+19
+24-06-06.19:50|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  -------------
+24-06-06.19:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.19:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1585.84
+24-06-06.19:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.499762
+24-06-06.19:51|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  --------------
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Trained Epochs  1000
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] BC Loss            0.00268567
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] QL Loss           -1
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Actor Loss        -0.147314
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Critic Loss        3.05311e+19
+24-06-06.20:12|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] --------------  --------------
+24-06-06.20:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
+24-06-06.20:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic Reward    1520.27
+24-06-06.20:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] Average Episodic N-Reward     0.477763
+24-06-06.20:13|[pen-human-v1|exp_1|diffusion-ql|T-5|ms-offline|k-2|0] -------------------------  -----------
