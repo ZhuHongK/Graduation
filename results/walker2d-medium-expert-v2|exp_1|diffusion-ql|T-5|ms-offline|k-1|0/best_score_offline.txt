@@ -1,1 +1,4 @@
 {"model selection": "offline", "epoch": 300.0, "best normalized score avg": 1.11088212229035, "best normalized score std": 0.00298799795908663, "best raw score avg": 5101.323342329706, "best raw score std": 13.716915554934213}
+wrong
+
+right: Average Episodic N-Reward：1.11208   Average Episodic Reward：5106.8
