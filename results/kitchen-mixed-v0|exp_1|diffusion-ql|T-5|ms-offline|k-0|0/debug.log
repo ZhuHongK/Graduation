@@ -1,0 +1,220 @@
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ----------
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  50
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss          0.0292001
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss         -0.998187
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss       0.0242091
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss      9.37925
+24-06-06.20:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ----------
+24-06-06.20:47|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.20:47|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    0.19
+24-06-06.20:47|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.0475
+24-06-06.20:47|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  -----------
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  100
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0150766
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998808
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.0100826
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       7.64507
+24-06-06.21:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  -----------
+24-06-06.21:13|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-06.21:13|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    0.58
+24-06-06.21:13|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.145
+24-06-06.21:13|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  -----------
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  150
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0130846
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998883
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.0080902
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.27252
+24-06-06.21:34|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  -----------
+24-06-06.21:39|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.21:39|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    1.35
+24-06-06.21:39|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.3375
+24-06-06.21:39|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  200
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0121129
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.999556
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00711514
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.50599
+24-06-06.21:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.22:05|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.22:05|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.27
+24-06-06.22:05|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.5675
+24-06-06.22:05|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  250
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0114777
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.999307
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00648116
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.64046
+24-06-06.22:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.22:30|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.22:30|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.01
+24-06-06.22:30|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.5025
+24-06-06.22:30|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  300
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0110434
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998751
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00604962
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.85105
+24-06-06.22:51|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.22:57|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-06.22:57|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.46
+24-06-06.22:57|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.615
+24-06-06.22:57|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  350
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0106712
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998699
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00567768
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.61624
+24-06-06.23:18|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.23:23|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-06.23:23|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.04
+24-06-06.23:23|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.51
+24-06-06.23:23|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  400
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0103824
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998937
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00538775
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.49335
+24-06-06.23:44|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-06.23:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-06.23:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    1.72
+24-06-06.23:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.43
+24-06-06.23:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  450
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.0101337
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998823
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00513956
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.519
+24-06-07.00:10|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.00:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-07.00:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.09
+24-06-07.00:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.5225
+24-06-07.00:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  500
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00989698
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998742
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00490327
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.46564
+24-06-07.00:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.00:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.00:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.62
+24-06-07.00:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.655
+24-06-07.00:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  550
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00968834
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.998055
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00469807
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       7.30379
+24-06-07.01:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.01:07|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.01:07|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.06
+24-06-07.01:07|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.515
+24-06-07.01:07|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  600
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00949981
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.996665
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00451649
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.41794
+24-06-07.01:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.01:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.01:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.66
+24-06-07.01:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.665
+24-06-07.01:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  650
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00934375
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.997187
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00435781
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.28003
+24-06-07.01:53|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.01:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-07.01:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.43
+24-06-07.01:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.6075
+24-06-07.01:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  700
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00917741
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.997465
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00419009
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.20703
+24-06-07.02:19|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.02:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.02:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.14
+24-06-07.02:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.535
+24-06-07.02:25|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  750
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00903566
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.99717
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00404981
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.72547
+24-06-07.02:45|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.02:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.02:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.42
+24-06-07.02:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.605
+24-06-07.02:50|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  800
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00891359
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.997312
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00392703
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.37572
+24-06-07.03:11|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.03:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-07.03:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.19
+24-06-07.03:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.5475
+24-06-07.03:16|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ------
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  850
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00878642
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.996906
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00380189
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       5.68774
+24-06-07.03:36|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.03:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-07.03:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    1.96
+24-06-07.03:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.49
+24-06-07.03:42|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  900
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00865793
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.996946
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.0036732
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.09261
+24-06-07.04:02|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.04:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-07.04:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.36
+24-06-07.04:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.59
+24-06-07.04:08|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  ----
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  950
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss           0.00856303
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss          -0.996558
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss        0.00358025
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss       6.44267
+24-06-07.04:28|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  ------------
+24-06-07.04:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.04:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.14
+24-06-07.04:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.535
+24-06-07.04:33|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  -------------
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Trained Epochs  1000
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] BC Loss            0.00845982
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] QL Loss           -0.995806
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Actor Loss         0.00348079
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Critic Loss        7.18149
+24-06-07.04:54|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] --------------  -------------
+24-06-07.04:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
+24-06-07.04:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic Reward    2.38
+24-06-07.04:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] Average Episodic N-Reward  0.595
+24-06-07.04:59|[kitchen-mixed-v0|exp_1|diffusion-ql|T-5|ms-offline|k-0|0] -------------------------  -----
