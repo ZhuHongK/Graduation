@@ -1,0 +1,220 @@
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ---------
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  50
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss          0.124021
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss          0.999996
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss       3.62401
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      7.67695
+24-06-06.12:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ---------
+24-06-06.12:59|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.12:59|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.01
+24-06-06.12:59|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.01
+24-06-06.12:59|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  100
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0943205
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999872
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.59387
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      12.3155
+24-06-06.13:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.13:34|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---
+24-06-06.13:34|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.1
+24-06-06.13:34|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.1
+24-06-06.13:34|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  150
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0886726
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.99982
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58804
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      11.339
+24-06-06.13:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.14:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.14:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.53
+24-06-06.14:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.53
+24-06-06.14:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  200
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0862894
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999896
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58593
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      10.8123
+24-06-06.14:30|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.14:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.14:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.59
+24-06-06.14:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.59
+24-06-06.14:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  250
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0847518
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999895
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58438
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      10.2664
+24-06-06.15:03|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.15:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.15:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.53
+24-06-06.15:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.53
+24-06-06.15:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  300
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0863102
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999311
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.5839
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      15.3113
+24-06-06.15:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.15:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -
+24-06-06.15:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0
+24-06-06.15:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0
+24-06-06.15:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  350
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0839114
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999739
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.583
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      13.0753
+24-06-06.16:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.16:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.16:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.11
+24-06-06.16:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.11
+24-06-06.16:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  400
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0825644
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999888
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58217
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      10.699
+24-06-06.16:47|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.16:58|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.16:58|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.06
+24-06-06.16:58|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.06
+24-06-06.16:58|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  450
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0816929
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999881
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58128
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       9.82959
+24-06-06.17:22|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.17:33|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.17:33|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.33
+24-06-06.17:33|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.33
+24-06-06.17:33|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  500
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.081279
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999878
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58085
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      10.1795
+24-06-06.17:57|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-06-06.18:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.18:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.62
+24-06-06.18:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.62
+24-06-06.18:06|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  550
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0808298
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999835
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58025
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      11.1088
+24-06-06.18:29|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.18:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.18:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.47
+24-06-06.18:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.47
+24-06-06.18:39|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  600
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0813118
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999374
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.57912
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      13.4361
+24-06-06.19:02|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.19:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.19:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.47
+24-06-06.19:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.47
+24-06-06.19:12|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  650
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0802853
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999865
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.57981
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      10.8885
+24-06-06.19:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.19:45|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.19:45|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.54
+24-06-06.19:45|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.54
+24-06-06.19:45|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  700
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0807391
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999842
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.58019
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      10.5819
+24-06-06.20:09|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.20:20|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.20:20|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.02
+24-06-06.20:20|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.02
+24-06-06.20:20|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  750
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0848158
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.997306
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.57539
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      15.4156
+24-06-06.20:44|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.20:55|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---
+24-06-06.20:55|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.3
+24-06-06.20:55|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.3
+24-06-06.20:55|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ---
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  800
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0789696
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999874
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.57853
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       9.62393
+24-06-06.21:19|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.21:28|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.21:28|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.61
+24-06-06.21:28|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.61
+24-06-06.21:28|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  850
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0789816
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.999579
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.57751
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss       9.43682
+24-06-06.21:51|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.22:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.22:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.58
+24-06-06.22:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.58
+24-06-06.22:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  900
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.0858803
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.962635
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.4551
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      32.6196
+24-06-06.22:24|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  -----------
+24-06-06.22:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -
+24-06-06.22:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0
+24-06-06.22:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0
+24-06-06.22:36|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  950
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss           0.08286
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss           0.978675
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss        3.50822
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss      18.4156
+24-06-06.23:00|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ----------
+24-06-06.23:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -
+24-06-06.23:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0
+24-06-06.23:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0
+24-06-06.23:11|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  -
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Trained Epochs  1000
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] BC Loss            0.0784078
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] QL Loss            0.999863
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Actor Loss         3.57793
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Critic Loss        9.55287
+24-06-06.23:35|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] --------------  ------------
+24-06-06.23:46|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
+24-06-06.23:46|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic Reward    0.29
+24-06-06.23:46|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] Average Episodic N-Reward  0.29
+24-06-06.23:46|[antmaze-large-diverse-v0|exp_1|diffusion-ql|T-5|ms-offline|k-1|0] -------------------------  ----
